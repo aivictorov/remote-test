@@ -6,3 +6,12 @@
 	font-family: sans-serif;
 	color: #FFF;
 }
+
+.main {
+	padding: 50px 100px;
+	background-color: greenyellow;
+	font-size: 38px;
+	color: #FFF;
+	text-align: center;
+	font-family: sans-serif;
+}
